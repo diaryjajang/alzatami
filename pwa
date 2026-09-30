@@ -1,0 +1,22 @@
+{
+  "name": "Diary Pesantren Al-Zatami",
+  "short_name": "My Zatami",
+  "description": "Diary Pondok Pesantren Al-Zatami",
+  "start_url": "https://myzatami.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#075E54",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoCvk3zLfoSwczAM0RqyU93k6s7lHtELeT2z096HkddPK23tYekVm-E8ryDyyUW335p9v0rerIsHGMXntU7qpa8a0E0AH6GoVIcyRLUgVL8Lv3eUrkkK1fvlxfUCb8pjALOeLV3eDdEZ3rcOulsgHR2bvNpTwKLWtR9dia_p-jXRwksc7wXYzhtiG-lmg/s192/zatami192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifa07evuX1fhEO_5A3HEv3x28mNg_OLtnFSihEPjqaJXcj49-3KNkQng8Inmt81ilDm8IiiO4CsdgKhwoI-UpNFbjclLQvGXViHUJO8LTWtj425synJkzyzIzlI-hPNKlwbJfJAGehbYB5j5fsuhB4cbIxPHdWFBjmTf3tuD3Ccs-aFmbY9M-6WfJTG_U/s511/zatami512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
